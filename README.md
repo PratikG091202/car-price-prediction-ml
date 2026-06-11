@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project predicts car prices using the **Automobile dataset** by applying data analytics and machine learning techniques.  
-It explores the relationships between car features (engine size, horsepower, body style, fuel efficiency, etc.) and price, and builds regression and classification models to evaluate performance.
+It explores the relationships between car features (engine size, horsepower, body style, fuel efficiency, etc.) and price and builds regression and classification models to evaluate performance.
 
 ---
 
@@ -60,7 +60,7 @@ We compared actual vs predicted values using scatter and line plots.
 ---
 
 ### 6. Business Insights & Recommendations
-- Engine size, curb weight, and width drive higher prices.
+- Engine size, curb weight and width drive higher prices.
 - Luxury body styles (convertibles, hardtops) command premium pricing.
 - Fuel efficiency negatively correlates with price.
 - Customers can use the model to estimate affordability categories.
@@ -100,7 +100,7 @@ Logistic Regression Classification: Accuracy ≈ 73%
 ├── confusion_matrix_logistic.png
 ├── scatter_actual_vs_pred.png
 ├── lineplot_actual_vs_pred.png
-├── references/                     <- assignment brief, supporting docs
+├── references/                     <- supporting docs
 ├── reports/                        <- final report
 ├── requirements.txt                <- Python dependencies
 
