@@ -52,7 +52,7 @@ We categorized cars into **Low, Medium, High** price ranges using Logistic Regre
 We compared actual vs predicted values using scatter and line plots.
 
 **Scatter Plot (Actual vs Predicted Prices)**  
-![Scatter Plot (Actual vs Predicted Prices)](scatter_actual_vs_pred.png)
+![Scatter Plot (Actual vs Predicted Prices)](scatter_actual_vs_pred1.png)
 
 **Line Plot (Actual vs Predicted Categories)**  
 ![Line Plot](lineplot_actual_vs_pred.png)
